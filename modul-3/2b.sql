@@ -1,0 +1,1 @@
+CREATE TABLE prodi (kode_prodi CHAR(6), nama_prodi CHAR(30), PRIMARY KEY(kode_prodi));
