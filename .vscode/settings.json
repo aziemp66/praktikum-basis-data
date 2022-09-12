@@ -7,20 +7,6 @@
 			"previewLimit": 50,
 			"server": "localhost",
 			"port": 3306,
-			"askForPassword": true,
-			"driver": "MariaDB",
-			"name": "Local Host",
-			"group": "Local",
-			"username": "root",
-			"database": "mysql"
-		},
-		{
-			"mysqlOptions": {
-				"authProtocol": "default"
-			},
-			"previewLimit": 50,
-			"server": "localhost",
-			"port": 3306,
 			"driver": "MariaDB",
 			"name": "db_azie",
 			"group": "praktikum basis data",

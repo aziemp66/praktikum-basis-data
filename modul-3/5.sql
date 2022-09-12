@@ -1,0 +1,1 @@
+ALTER TABLE nilai ADD grade CHAR AFTER inisial;

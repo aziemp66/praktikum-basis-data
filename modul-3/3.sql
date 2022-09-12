@@ -1,0 +1,1 @@
+ALTER TABLE mahasiswa ADD agama VARCHAR(10) AFTER kode_prodi;
