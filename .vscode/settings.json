@@ -13,6 +13,20 @@
 			"group": "Local",
 			"username": "root",
 			"database": "mysql"
+		},
+		{
+			"mysqlOptions": {
+				"authProtocol": "default"
+			},
+			"previewLimit": 50,
+			"server": "localhost",
+			"port": 3306,
+			"driver": "MariaDB",
+			"name": "db_azie",
+			"group": "praktikum basis data",
+			"database": "db_azie",
+			"username": "root",
+			"password": "azie122333"
 		}
 	]
 }

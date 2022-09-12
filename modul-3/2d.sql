@@ -1,0 +1,1 @@
+CREATE TABLE ruang (ruang_id CHAR(3),nama_ruang CHAR(20),kapasitas INT,PRIMARY KEY(ruang_id));

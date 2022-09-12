@@ -1,0 +1,1 @@
+CREATE TABLE dosen (nik INT(12) auto_increment,inisial CHAR(3) UNIQUE,nama_dosen CHAR(50),status CHAR(2) DEFAULT 'T', sex CHAR(1) DEFAULT 'L',agama CHAR(20), login CHAR(20), pass CHAR(20),alamat VARCHAR(50), kota VARCHAR(20) DEFAULT 'Purwokerto', email VARCHAR(20), nohp VARCHAR(12), salary INT,PRIMARY KEY(nik) )
