@@ -1,0 +1,1 @@
+SELECT * FROM mahasiswa WHERE nama_mhs = "Dino"

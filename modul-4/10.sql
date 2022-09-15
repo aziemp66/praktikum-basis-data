@@ -1,0 +1,1 @@
+SELECT * FROM dosen WHERE sex = "L" AND agama = "Islam";
