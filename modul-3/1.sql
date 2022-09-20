@@ -1,1 +1,1 @@
-CREATE DATABASE db_azie;
+CREATE DATABASE db_mahasiswa;
