@@ -1,0 +1,1 @@
+SELECT nama_mk, jumlah_jam, sks FROM mata_kuliah WHERE jumlah_jam BETWEEN 26 AND 40;

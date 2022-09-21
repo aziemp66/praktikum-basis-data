@@ -1,0 +1,1 @@
+SELECT nama_mhs, kode_prodi, umur FROM mahasiswa WHERE umur NOT BETWEEN 18 AND 19;

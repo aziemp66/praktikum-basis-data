@@ -1,0 +1,1 @@
+SELECT * FROM mata_kuliah WHERE jumlah_jam > 13.33;
