@@ -1,0 +1,2 @@
+ALTER TABLE pegawai ADD COLUMN jenis_kelamin CHAR(1);
+ALTER TABLE pegawai ALTER COLUMN 
