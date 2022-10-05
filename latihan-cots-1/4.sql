@@ -1,0 +1,1 @@
+ALTER TABLE pegawai RENAME TO petugas;

@@ -1,0 +1,1 @@
+SELECT * FROM kartu_member AS km;
